@@ -11,7 +11,7 @@ public class Day3FindSumofPair {
 		int numbers=20;
 		
 		if(arr.length<2) {
-			System.out.println("Array SHouls contain at last two number's");
+			System.out.println("Array Shouls contain at last two number's");
 		}else {
 			
 			for(int i=0;i<arr.length;i++) {
